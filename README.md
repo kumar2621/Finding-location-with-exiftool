@@ -23,3 +23,9 @@ With the help of exiftool we are finding location from metadata of the image.
 ![Screenshot 2025-01-03 135514](https://github.com/user-attachments/assets/4f47cf53-f249-4205-a0fd-3d1ec8263bab)
 
 ![Screenshot 2025-01-03 135533](https://github.com/user-attachments/assets/b111239e-e9d7-466d-942a-1c0dede7a043)
+
+# NOTE
+1. Image should have geolocation in its metadata.
+2. Don't transfer image form any source which result in lost of metadata like whatsapp.
+3. Try file sharing app ,telegram ,email ,etc.
+4. Or download image from anywhere without losing its metadata.
